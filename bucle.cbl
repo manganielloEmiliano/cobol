@@ -21,9 +21,9 @@
                if salida ="salir"
                    go to finalizar
                ELSE
-               perform reiniciaPrograma.
-               PERFORM introduceNumero.
-               PERFORM mostrarTabla.
+                   PERFORM reiniciaPrograma.
+                   PERFORM introduceNumero.
+                   PERFORM mostrarTabla.
 
            finalizar.
                    STOP RUN.
