@@ -18,7 +18,7 @@
                 display "el numero es mayor a 50"
             else
                 display "el numero es menor de 50"
-            END-IF.
+           .
 
             STOP RUN.
        END PROGRAM ifElse.
